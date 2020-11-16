@@ -1,0 +1,9 @@
+{
+    "java.home": "C:\\Program Files\\Java\\jdk-13.0.1", 
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "editor.fontSize": 14,
+    "files.autoGuessEncoding":true
+
+}   
